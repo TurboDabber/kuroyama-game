@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\unrealeditor\\inc\\kuroyama\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\kuroyamaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\unrealeditor\\development\\kuroyama\\definitions.kuroyama.h",
+            "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\source\\kuroyama\\tp_weaponcomponent.h",
+            "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\unrealeditor\\inc\\kuroyama\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

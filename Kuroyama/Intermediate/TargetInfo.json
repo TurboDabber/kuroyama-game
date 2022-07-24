@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Kuroyama",
+			"Path": "C:\\Users\\Pawel\\source\\repos\\ue-5Game-kuroyama\\Kuroyama\\Source\\Kuroyama.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KuroyamaEditor",
+			"Path": "C:\\Users\\Pawel\\source\\repos\\ue-5Game-kuroyama\\Kuroyama\\Source\\KuroyamaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

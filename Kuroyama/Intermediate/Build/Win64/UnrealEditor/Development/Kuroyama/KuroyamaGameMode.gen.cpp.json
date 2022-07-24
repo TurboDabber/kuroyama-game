@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\unrealeditor\\inc\\kuroyama\\kuroyamagamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\kuroyamaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\unrealeditor\\development\\kuroyama\\definitions.kuroyama.h",
+            "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\source\\kuroyama\\kuroyamagamemode.h",
+            "c:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\pawel\\source\\repos\\ue-5game-kuroyama\\kuroyama\\intermediate\\build\\win64\\unrealeditor\\inc\\kuroyama\\kuroyamagamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

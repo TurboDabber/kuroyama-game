@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Pawel\\source\\repos\\ue-5Game-kuroyama\\Kuroyama\\Source\\Kuroyama\\Kuroyama.Build.cs",
+		"C:\\Users\\Pawel\\source\\repos\\ue-5Game-kuroyama\\Kuroyama\\Source\\Kuroyama.Target.cs",
+		"C:\\Users\\Pawel\\source\\repos\\ue-5Game-kuroyama\\Kuroyama\\Source\\KuroyamaEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
